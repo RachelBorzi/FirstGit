@@ -5,11 +5,11 @@ import './App.css'
 import Hello from './Hello'
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [count1, setCount1] = useState(0);
   console.log("hi i'm mali");
-  let code='Mali user';
+  let codcod='Mali user';
 
-  return (<><h1>hi!</h1>
+  return (<><h1>hi! hello world!</h1>
   <Hello/></>
     
   )
