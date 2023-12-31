@@ -9,7 +9,7 @@ function App() {
   console.log("hi i'm mali");
   let codcod='Mali user';
 
-  return (<><h1>hi! hello world!</h1>
+  return (<><h1>hi! this is a nice day!</h1>
   <Hello/></>
     
   )
