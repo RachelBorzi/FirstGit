@@ -5,7 +5,9 @@ import './App.css'
 import Hello from './Hello'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
+  console.log("hi i'm mali");
+  let code='Mali user';
 
   return (<><h1>hi!</h1>
   <Hello/></>
