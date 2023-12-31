@@ -5,9 +5,9 @@ import './App.css'
 import Hello from './Hello'
 
 function App() {
-  const [count11, setCount11] = useState(0)
+  const [count1, setCount1] = useState(0)
 
-  return (<><h1>hi! hello my world!</h1>
+  return (<><h1>hi! hello world! good</h1>
   <Hello/>
   <h3>mali</h3></>
     
