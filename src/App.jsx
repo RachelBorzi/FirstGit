@@ -7,7 +7,8 @@ import Hello from './Hello'
 function App() {
   const [count, setCount] = useState(0)
 
-  return (<Hello/>
+  return (<><h1>hi!</h1>
+  <Hello/></>
     
   )
 }
