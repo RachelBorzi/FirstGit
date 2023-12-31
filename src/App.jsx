@@ -10,7 +10,8 @@ function App() {
   let codcod='Mali user';
 
   return (<><h1>hi! this is a nice day!</h1>
-  <Hello/></>
+  <Hello/>
+  <h3>mali2</h3></>
     
   )
 }
