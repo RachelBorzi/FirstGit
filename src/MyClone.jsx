@@ -1,5 +1,5 @@
 const MyClone = () => {
-    return ( <h1>I succeed my clone b"h!</h1> );
+    return ( <h1>I succeed my clone</h1> );
 }
  
 export default MyClone;
