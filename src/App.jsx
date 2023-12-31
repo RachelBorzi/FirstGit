@@ -5,11 +5,11 @@ import './App.css'
 import Hello from './Hello'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count11, setCount11] = useState(0)
 
-  return (<><h1>hi!</h1>
+  return (<><h1>hi! hello my world!</h1>
   <Hello/>
-  <h3>mali2</h3></>
+  <h3>mali</h3></>
     
   )
 }
