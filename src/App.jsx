@@ -10,7 +10,8 @@ function App() {
   let code='Mali user';
 
   return (<><h1>hi!</h1>
-  <Hello/></>
+  <Hello/>
+  <h3>mali2</h3></>
     
   )
 }
